@@ -1,0 +1,6 @@
+I decided to start this project on a plane ride from Houston to London.
+It was 4am, relatively speaking, and I didn't want to sleep. I felt like doing something productive so...
+
+The following program creates a linear equation when given a set of datapoints(either through a .csv file or by inputting it by hand).
+
+The endgoal is to have an visual program that plots the given data into a graph and shows the linear regression line shift around in real time
